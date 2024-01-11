@@ -1,4 +1,4 @@
-package RiotAPI.Riot.controllers;
+package RiotAPI.Riot.dtos;
 
 
 import org.springframework.web.bind.annotation.RestController;
