@@ -1,10 +1,10 @@
 package RiotAPI.Riot.services;
 
-import RiotAPI.Riot.controllers.QuerySummonerDTO;
+import RiotAPI.Riot.dtos.QuerySummonerDTO;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.client.RestTemplate;
 
-public class QuerySummonerDtoService {
+public class FindPuuidService {
     public String getPuuidFromApi(@PathVariable("summoner") String summoner ){
         RestTemplate restTemplate = new RestTemplate();
 
