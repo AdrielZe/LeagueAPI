@@ -8,6 +8,7 @@ import java.util.List;
 @RestController
 public class SummonerMasteryChampionsDTO {
     private long championId;
+
     private long lastPlayTime;
     private int championLevel;
     private int championPoints;
