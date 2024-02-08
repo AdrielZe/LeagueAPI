@@ -1,9 +1,9 @@
 <header>
-  <h3> ⌛ Projeto em desenvolvimento 🖥️ </h3>
+  <h3><strong>🖥️ LeagueAPI 🖥️ </strong> </h3>
 
-  <p> Nesse projeto, estou desenvolvendo uma API que se conecta com as API's de League of Legends da Riot Games. </p>
-  <p> Usarei Spring boot para fazer o backend e React JS para fazer o FrontEnd. </p>
+  <p>O LeagueAPI é uma API desenvolvida em Java com o poderoso framework Spring Boot. O principal objetivo é fornecer uma interface simplificada para obter informações valiosas sobre jogadores de League of Legends, conectando-se às APIs da Riot Games.</p>
 
+  <hr>
 </header>
 
 <h2>
